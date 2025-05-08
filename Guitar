@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portafolio</title>
+  <link rel="stylesheet" href="final.css" />
+</head>
+<body>
+
+  <nav id="navbar">
+    <a href="#welcome-section">Inicio</a>
+    <a href="#projects">Proyectos</a>
+    <a id="profile-link" href="https://github.com/Blozom/Portafolio-personal" target="_blank">GitHub</a>
+  </nav>
+
+  <section id="welcome-section">
+    <h1>Bienvenido a mi portafolio</h1>
+    <p>Soy un desarrollador web apasionado por la tecnología y la creatividad.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Mis Proyectos</h2>
+    <div class="projects-grid">
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Fotos-de-gatos/" target="_blank">
+          <h3>Proyecto 1</h3>
+          <p>Descripción breve del proyecto 1.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Menu-cafeteria/" target="_blank">
+          <h3>Proyecto 2</h3>
+          <p>Descripción breve del proyecto 2.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Marcadores-de-colores/" target="_blank">
+          <h3>Proyecto 3</h3>
+          <p>Descripción breve del proyecto 3.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Formulario-de-registro/
+        " target="_blank">
+          <h3>Proyecto 4</h3>
+          <p>Descripción breve del proyecto 4.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Encuesta/" target="_blank">
+          <h3>Proyecto 5</h3>
+          <p>Descripción breve del proyecto 5.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/pintura-de-rothko/" target="_blank">
+          <h3>Proyecto 6</h3>
+          <p>Descripción breve del proyecto 6.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Galeria-de-fotos/" target="_blank">
+          <h3>Proyecto 7</h3>
+          <p>Descripción breve del proyecto 7.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Etiqueta-de-nutricion/" target="_blank">
+          <h3>Proyecto 8</h3>
+          <p>Descripción breve del proyecto 8.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Construyendo-un-cuestionario/" target="_blank">
+          <h3>Proyecto 9</h3>
+          <p>Descripción breve del proyecto 9.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Pagina-de-homenaje/" target="_blank">
+          <h3>Proyecto 10</h3>
+          <p>Descripción breve del proyecto 10.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Hoja-de-balance/" target="_blank">
+          <h3>Proyecto 11</h3>
+          <p>Descripción breve del proyecto 11.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/pintura-de-gatos/" target="_blank">
+          <h3>Proyecto 12</h3>
+          <p>Descripción breve del proyecto 12.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/piano/" target="_blank">
+          <h3>Proyecto 13</h3>
+          <p>Piano</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Documentacion-tecnica/" target="_blank">
+          <h3>Proyecto 14</h3>
+          <p>Documentacion Tecnica</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/horizonte-de-la-ciudad/" target="_blank">
+          <h3>Proyecto 15</h3>
+          <p>Descripción breve del proyecto 15.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Construyendo-una-revista/" target="_blank">
+          <h3>Proyecto 16</h3>
+          <p>Descripción breve del proyecto 15.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/destino-del-producto/" target="_blank">
+          <h3>Proyecto 17</h3>
+          <p>Descripción breve del proyecto 15.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Noira/" target="_blank">
+          <h3>Proyecto 18</h3>
+          <p>Descripción breve del proyecto 15.</p>
+        </a>
+      </div>
+      <div class="project-tile">
+        <a href="https://blozom.github.io/Pinguino/" target="_blank">
+          <h3>Proyecto 19</h3>
+          <p>Descripción breve del proyecto 15.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
+
+
 
